@@ -11,7 +11,6 @@ The Weather App allows users to check the current weather conditions for a speci
 - Search for weather by city name
 - Get weather details based on device location
 - Responsive design for various devices
-- ...
 
 ## Deployment
 
